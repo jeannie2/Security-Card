@@ -3,7 +3,7 @@
 Simple Vue.js project 
 
 ## Technologies
-This project was made using Vue.js and vanilla-tilt-vue
+This project was made using Vue.js and vanilla-tilt-vue npm package
 
 ## How to use
 Fill out form and submit. Click “open” button to view card. Close by clicking “x” on top right corner of card. 
