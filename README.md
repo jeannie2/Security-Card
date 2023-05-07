@@ -6,7 +6,7 @@ Simple Vue.js project
 This project was made using Vue.js and vanilla-tilt-vue npm package
 
 ## How to use
-Fill out form and submit. Click “open” button to view card. Close by clicking “x” on top right corner of card. 
+Click link at top right to preview. Fill out form and submit. Click “open” button to view card. Close by clicking “x” on top right corner of card. 
 
 ## Sources
 - https://www.npmjs.com/package/vanilla-tilt-vue
